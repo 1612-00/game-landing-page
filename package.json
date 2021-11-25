@@ -19,5 +19,17 @@
     "@vitejs/plugin-react": "^1.0.0",
     "gh-pages": "^3.2.3",
     "vite": "^2.6.4"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1612-00/game-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1612-00/game-landing-page/issues"
+  },
+  "homepage": "https://github.com/1612-00/game-landing-page#readme",
+  "description": ""
 }
