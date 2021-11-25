@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "predeploy": "react-scripts build",
+    "predeploy": "vite build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
